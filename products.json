@@ -1,0 +1,229 @@
+[
+    {
+      "title": "Босоніжки",
+      "description": "CRUSE",
+      "price": 2950,
+      "catugori": "sumeer",
+      "image": "3835.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "AQUAMARIN",
+      "price": 3280,
+      "catugori": "sumeer",
+      "image": "image (1).png"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "Blizzarini",
+      "price": 3807,
+      "catugori": "sumeer",
+      "image": "image (11).png"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "AQUAMARIN",
+      "price": 2390,
+      "catugori": "sumeer",
+      "image": "4067.jpg"
+    },
+    {
+      "title": "Туфлі",
+      "description": "ANEMONE",
+      "price": 2350,
+      "catugori": "sumeer",
+      "image": "3.jpg"
+    },
+    {
+      "title": "Сабо",
+      "description": "AIDINI",
+      "price": 3190,
+      "catugori": "sumeer",
+      "image": "1847.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "AIDINI",
+      "price": 2580,
+      "catugori": "sumeer",
+      "image": "3967.jpg"
+    },
+    {
+      "title": "Туфлі",
+      "description": "Osso Bianco",
+      "price": 4250,
+      "catugori": "sumeer",
+      "image": "4515_0.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "Osso Bianco",
+      "price": 3500,
+      "catugori": "sumeer",
+      "image": "7525-ed.jpg"
+    },
+    {
+      "title": "Туфлі",
+      "description": "CRUSE",
+      "price": 3680,
+      "catugori": "sumeer",
+      "image": "4739.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "CRUSE",
+      "price": 2390,
+      "catugori": "sumeer",
+      "image": "3851.jpg"
+    },
+    {
+      "title": "Туфлі",
+      "description": "CRUSE",
+      "price": 3580,
+      "catugori": "sumeer",
+      "image": "4631.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "Osso Bianco",
+      "price": 2790,
+      "catugori": "sumeer",
+      "image": "image (3) 5.png"
+    },
+    {
+      "title": "Туфлі",
+      "description": "CRUSE",
+      "price": 3990,
+      "catugori": "sumeer",
+      "image": "4407.jpg"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "C&A",
+      "price": 1380,
+      "catugori": "sumeer",
+      "image": "image.png"
+    },
+    {
+      "title": "Босоніжки",
+      "description": "Blizzarini",
+      "price": 3057,
+      "catugori": "sumeer",
+      "image": "image11.png"
+    },
+
+
+      {
+        "title": "Черевики",
+        "description": "Blizzarini",
+        "price": 5347,
+        "catugori": "winter",
+        "image": "image (2).png"
+      },
+      {
+        "title": "Ботильйони",
+        "description": "Blizzarini",
+        "price": 4704,
+        "catugori": "winter",
+        "image": "image (3)3.png"
+      },
+      {
+        "title": "Ботильйони",
+        "description": "Cache Cache",
+        "price": 1360,
+        "catugori": "winter",
+        "image": "image (55).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "Fashion",
+        "price": 3493,
+        "catugori": "winter",
+        "image": "image (5).png"
+      },
+      {
+        "title": "Ботильйони",
+        "description": "Benito",
+        "price": 3198,
+        "catugori": "winter",
+        "image": "image (9).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "KASANDRA",
+        "price": 2100,
+        "catugori": "winter",
+        "image": "image (3).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "No Brand",
+        "price": 1071,
+        "catugori": "winter",
+        "image": "image (7).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "Oeego",
+        "price": 2940,
+        "catugori": "winter",
+        "image": "21.png"
+      },
+      {
+        "title": "Ботильйон",
+        "description": "Ann Mex",
+        "price": 3024,
+        "catugori": "winter",
+        "image": "image (8).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "Blizzarini",
+        "price": 3945,
+        "catugori": "winter",
+        "image": "image (60).png"
+      },
+      {
+        "title": "Ботильйон",
+        "description": "Benito",
+        "price": 3197,
+        "catugori": "winter",
+        "image": "image (10).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "Twenty Two",
+        "price": 1964,
+        "catugori": "winter",
+        "image": "image (22).png"
+      },
+      {
+        "title": "Ботильйон",
+        "description": "Le'BERDESi",
+        "price": 6450,
+        "catugori": "winter",
+        "image": "image (19).png"
+      },
+      {
+        "title": "Підбори",
+        "description": "ditto",
+        "price": 2687,
+        "catugori": "winter",
+        "image": "image (4).png"
+      },
+      {
+        "title": "Ботильйон",
+        "description": "Le'BERDES",
+        "price": 3909,
+        "catugori": "winter",
+        "image": "image (40).png"
+      },
+      {
+        "title": "Черевики",
+        "description": "Beratronii",
+        "price": 4825,
+        "catugori": "winter",
+        "image": "image (70).png"
+      }
+    ]
+  
